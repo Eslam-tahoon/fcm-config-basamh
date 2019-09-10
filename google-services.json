@@ -1,39 +1,37 @@
 {
   "project_info": {
-    "project_number": "135410321404",
-    "firebase_url": "https://sdc-cards.firebaseio.com",
-    "project_id": "sdc-cards",
-    "storage_bucket": "sdc-cards.appspot.com"
+    "project_number": "688976859813",
+    "firebase_url": "https://basamh-sdc.firebaseio.com",
+    "project_id": "basamh-sdc",
+    "storage_bucket": "basamh-sdc.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:135410321404:android:f9dff1d936f1b5c5",
+        "mobilesdk_app_id": "1:688976859813:android:ae381fcd7ee4ac22",
         "android_client_info": {
-          "package_name": "com.dl.sdccards"
+          "package_name": "com.dl.basamh"
         }
       },
       "oauth_client": [
         {
-          "client_id": "135410321404-r635mvvkd78tvd5p9a8dbtgv9lek92s2.apps.googleusercontent.com",
+          "client_id": "688976859813-k6npig0usandn5h4p6s63usu5rjhtj7u.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC_W3kAcySDRcd6bY4Sp3-JSSVKt2xX3Mo"
+          "current_key": "AIzaSyC1DqaB3IuQYJG0WmzfKsxWGpq6QkMIT6o"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688976859813-k6npig0usandn5h4p6s63usu5rjhtj7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
